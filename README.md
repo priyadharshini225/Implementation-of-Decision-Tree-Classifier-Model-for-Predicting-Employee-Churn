@@ -7,11 +7,14 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1.Import pandas
-2.Import Decision tree classifier
-3.Fit the data in the model
-4.Find the accuracy score
+## Algorithm:
+1. Import pandas
+
+2. Import Decision tree classifier
+
+3. Fit the data in the model
+
+4. Find the accuracy score
 
 ## Program:
 ```
